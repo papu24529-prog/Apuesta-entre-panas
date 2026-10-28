@@ -1,0 +1,6 @@
+{
+  "name": "Apuesta Entre Panas - Apuestas y Retos con Amigos",
+  "description": "App social y juego de apuestas amistosas entre amigos. Crea categorías personalizadas, resuelve con minijuegos y ruletas, y descarga el proyecto en ZIP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
